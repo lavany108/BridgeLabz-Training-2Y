@@ -1,0 +1,33 @@
+package core_java.Array.Level1;
+import java.util.Scanner;
+
+public class PositiveEvenOrOddCompare {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int[] numbers = new int[5];
+        for (int i = 0; i < numbers.length; i++) {
+            System.out.print("Enter number " + (i + 1) + ": ");
+            numbers[i] = sc.nextInt();
+            if (numbers[i] > 0) {
+                System.out.print(numbers[i] + " is Positive and ");
+                if (numbers[i] % 2 == 0) {
+                    System.out.println("Even");
+                } else {
+                    System.out.println("Odd");
+                }
+            } else if (numbers[i] < 0) {
+                System.out.println(numbers[i] + " is Negative");
+            } else {
+                System.out.println(numbers[i] + " is Zero");
+            }
+        }
+        if (numbers[0] == numbers[4]) {
+            System.out.println("First and last elements are Equal");
+        } else if (numbers[0] > numbers[4]) {
+            System.out.println("First element is Greater than last");
+        } else {
+            System.out.println("First element is Less than last");
+        }
+    }
+}
+
