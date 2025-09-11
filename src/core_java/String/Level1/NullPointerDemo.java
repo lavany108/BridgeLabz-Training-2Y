@@ -1,3 +1,4 @@
+package core_java.String.Level1;
 public class NullPointerDemo {
     public static void generateException() {
         String text = null;

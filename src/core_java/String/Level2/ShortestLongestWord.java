@@ -1,3 +1,4 @@
+package core_java.String.Level2;
 import java.util.Scanner;
 
 public class ShortestLongestWord {

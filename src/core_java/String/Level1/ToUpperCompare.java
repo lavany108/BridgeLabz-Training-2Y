@@ -1,3 +1,4 @@
+package core_java.String.Level1;
 import java.util.Scanner;
 
 public class ToUpperCompare {
