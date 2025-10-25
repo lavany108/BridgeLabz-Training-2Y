@@ -1,4 +1,4 @@
-package OOPs.DesignPriciples;
+package OOPs.DesignPrinciples;
 
 // Book.java
 public class Book {

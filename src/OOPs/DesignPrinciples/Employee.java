@@ -1,4 +1,4 @@
-package OOPs.DesignPriciples;
+package OOPs.DesignPrinciples;
 
 // Employee.java
 public class Employee {

@@ -1,4 +1,4 @@
-package OOPs.DesignPriciples;
+package OOPs.DesignPrinciples;
 
 // Company.java
 import java.util.ArrayList;

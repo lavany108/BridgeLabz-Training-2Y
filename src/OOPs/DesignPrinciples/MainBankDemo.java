@@ -1,4 +1,4 @@
-package OOPs.DesignPriciples;
+package OOPs.DesignPrinciples;
 
 // MainBankDemo.java
 public class MainBankDemo {

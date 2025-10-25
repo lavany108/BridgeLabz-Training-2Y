@@ -1,4 +1,4 @@
-package OOPs.DesignPriciples;
+package OOPs.DesignPrinciples;
 
 // MainLibraryDemo.java
 public class MainLibraryDemo {
